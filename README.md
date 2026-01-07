@@ -1,1 +1,2 @@
 # Clinical-Risk-Prediction-Modeling-for-Heart-Disease
+Analyzed cleaned hospital patient data to explore relationships between clinical indicators (e.g., fasting blood sugar, max heart rate) and heart‑disease outcomes. Built and evaluated logistic regression models for binary risk prediction and random forest models for both classification and regression tasks. Performed feature importance analysis, assessed model accuracy, and prepared a research‑oriented report interpreting statistical results and their practical implications for clinical decision‑support systems.
